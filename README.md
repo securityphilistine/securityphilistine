@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @securityphilistine
+- 👀 I’m interested in various aspects of security, tech, FOSS, linux/unix, networking and homelabbing 
+- 🌱 I’m currently learning seemingly basic networking concepts, Tinkerbell bare metal provisioning and Intel AMT
+- 💞️ I’m looking to collaborate on ... coming soon?
+- 📫 How to reach me https://twitter.com/cyberphilistine
